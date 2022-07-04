@@ -1,6 +1,6 @@
 # Atividade JavaScript Assíncrono
 
-Atividade prática do Curso "Javascript Assíncrono", do Bootcamp de JavaScript ministrado pela Profª Stephany Nusch pela[Digital Innovation One](https://digitalinnovation.one/).
+Atividade prática do Curso "Javascript Assíncrono", do Bootcamp de JavaScript ministrado pela Profª Stephany Nusch pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade: API "catAPI"
 
